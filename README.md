@@ -1,5 +1,5 @@
 # space.vanderlanth.io-assets
-This repository contains some modules from [my latest project](space.vanderlanth.io)
+This repository contains some modules from [my latest project](http://space.vanderlanth.io/)
 
 --- 
 
