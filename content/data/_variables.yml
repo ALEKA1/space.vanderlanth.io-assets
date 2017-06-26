@@ -1,0 +1,34 @@
+color:
+  black: '#000000'
+  deepgrey: '#121212'
+  white: '#ffffff'
+
+gradient:
+  default: 'linear-gradient($color-black, $color-white)'
+
+text:
+  font-default: "'SpaceMono Regular'"
+  size-default: '16px'
+
+
+shadow:
+  default: '0 0 30px rgba(0,0,0,0.1)'
+
+
+path:
+  img: "'./images/'"
+  vid: "'./videos/'"
+  icon: "'./icons/'"
+  font: "'./fonts/'"
+  other: "'./others/'"
+
+query:
+  mobile-break: "'only screen and (max-width: 568px)'"
+  tablet-break: "'only screen and (max-width: 768px)'"
+  desktop-break: "'only screen and (max-width: 1024px)'"
+  wide-break: "'only screen and (max-width: 1440px)'"
+  extra-break: "'only screen and (max-width: 3440px)'"
+  high-res: "'(min-resolution: 192dpi)'"
+  low-res: "'(max-resolution: 191dpi)'"
+  wide-screen: "'only screen and (min-width: 1600px)'"
+

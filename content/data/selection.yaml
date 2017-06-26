@@ -1,0 +1,41 @@
+head:
+  tab: Selection
+  favicon: others/fav.png
+  content: |
+   Minima
+  keywords: |
+    Minima
+  styles:
+    css: |
+      main.css
+  js: |
+    main.js
+
+content:
+  title: Minima Starter
+  tagline: Gulp Template Builder
+  link: Made with ♥ by vanderlanth
+  url: http://vanderlanth.io
+
+
+
+asteroids:
+  one:
+    title: Title n°1
+    date: 1937
+    audio: 'sounds/Jupiter.mp3'
+
+  two:
+    title: Title n°2
+    date: 1937
+    audio: 'sounds/Jupiter.mp3'
+
+  three:
+    title: Title n°3
+    date: 1937
+    audio: 'sounds/Jupiter.mp3'
+
+  four:
+    title: Title n°4
+    date: 1937
+    audio: 'sounds/Jupiter.mp3'

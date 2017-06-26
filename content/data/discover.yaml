@@ -1,0 +1,139 @@
+head:
+  tab: Why we explore - Interactive 3D space blog
+  favicon: others/fav.png
+  content: |
+    Why we explore? An unconvential blog about a space using RSS Feed, 3D and mobile VR. Discover the latest news from the NASA (National Aeronautic Space Association).
+  keywords: |
+    NASA, Space, 3D, blog, rss, asteroid, comet, explore
+  styles:
+    css: |
+      main.css
+  js: |
+    main.js
+
+content:
+  title: Minima Starter
+  tagline: Gulp Template Builder
+  link: Made with ♥ by vanderlanth
+  url: http://vanderlanth.io
+
+
+
+slider:
+  mars:
+    title: Mars
+    name: The name goes here
+    img: planet-holder
+    map: 'images/mars-map.png'
+    dismap: 'images/mars-dismap.png'
+    lightcolor: '0xffccdd'
+    audio: 'sounds/Jupiter.mp3'
+    ref: 1
+
+  jupiter:
+    title: Jupiter
+    img: planet-holder
+    map: 'images/jupiter-map.png'
+    dismap: 'images/jupiter-dismap.png'
+    lightcolor: '0xffccdd'
+    ref: 2
+
+  venus:
+    title: Venus
+    img: planet-holder
+    map: 'images/venus-map.png'
+    dismap: 'images/venus-dismap.png'
+    lightcolor: '0xffccdd'
+    ref: 3
+
+  neptune:
+    title: Neptune
+    img: planet-holder
+    map: 'images/neptune-map.png'
+    dismap: 'images/neptune-dismap.png'
+    lightcolor: '0xffccdd'
+    ref: 4
+
+  mercury:
+    title: Mercury
+    img: planet-holder
+    map: 'images/mercury-map.png'
+    dismap: 'images/mercury-dismap.png'
+    lightcolor: '0xffccdd'
+    ref: 5
+
+  uranus:
+    title: Uranus
+    img: planet-holder
+    map: 'images/uranus-map.png'
+    dismap: 'images/uranus-dismap.png'
+    lightcolor: '0xffccdd'
+    ref: 6
+
+  saturn:
+    title: Saturn
+    img: planet-holder
+    map: 'images/saturn-map.png'
+    dismap: 'images/saturn-dismap.png'
+    lightcolor: '0xffccdd'
+    ref: 7
+
+  marsmini:
+    title: Mars
+    name: The name goes here
+    img: planet-holder
+    map: 'images/mars-map-min.png'
+    dismap: 'images/mars-dismap-min.png'
+    lightcolor: '0xffccdd'
+    audio: 'sounds/Jupiter.mp3'
+    ref: 1
+
+  jupitermini:
+    title: Jupiter
+    img: planet-holder
+    map: 'images/jupiter-map-min.png'
+    dismap: 'images/jupiter-dismap-min.png'
+    lightcolor: '0xffccdd'
+    ref: 2
+
+  venusmini:
+    title: Venus
+    img: planet-holder
+    map: 'images/venus-map-min.png'
+    dismap: 'images/venus-dismap-min.png'
+    lightcolor: '0xffccdd'
+    ref: 3
+
+  neptunemini:
+    title: Neptune
+    img: planet-holder
+    map: 'images/neptune-map-min.png'
+    dismap: 'images/neptune-dismap-min.png'
+    lightcolor: '0xffccdd'
+    ref: 4
+
+  mercurymini:
+    title: Mercury
+    img: planet-holder
+    map: 'images/mercury-map-min.png'
+    dismap: 'images/mercury-dismap-min.png'
+    lightcolor: '0xffccdd'
+    ref: 5
+
+  uranusmini:
+    title: Uranus
+    img: planet-holder
+    map: 'images/uranus-map-min.png'
+    dismap: 'images/uranus-dismap-min.png'
+    lightcolor: '0xffccdd'
+    ref: 6
+
+  saturnmini:
+    title: Saturn
+    img: planet-holder
+    map: 'images/saturn-map-min.png'
+    dismap: 'images/saturn-dismap-min.png'
+    lightcolor: '0xffccdd'
+    ref: 7
+
+

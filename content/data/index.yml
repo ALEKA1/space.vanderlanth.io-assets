@@ -1,0 +1,23 @@
+head:
+  tab: Why we explore - Interactive 3D space blog
+  favicon: others/fav.png
+  content: |
+    Why we explore? An unconvential blog about a space using RSS Feed, 3D and mobile VR. Discover the latest news from the NASA (National Aeronautic Space Association).
+  keywords: |
+    NASA, Space, 3D, blog, rss, asteroid, comet, explore
+  styles:
+    css: |
+      main.css
+  js: |
+    main.js
+
+content:
+  title: Minima Starter
+  tagline: Gulp Template Builder
+  link: Made with ♥ by vanderlanth
+  url: http://vanderlanth.io
+
+meteor:
+  map: 'images/meteor.png'
+  dismap: 'images/mars-dismap.png'
+  lightcolor: '0xffccdd'

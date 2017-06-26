@@ -1,0 +1,27 @@
+head:
+  tab: About
+  favicon: others/fav.png
+  content: |
+   Minima
+  keywords: |
+    Minima
+  styles:
+    css: |
+      main.css
+  js: |
+    main.js
+
+content:
+  title: Minima Starter
+  tagline: Gulp Template Builder
+  link: Made with ♥ by vanderlanth
+  url: http://vanderlanth.io
+
+
+
+gustav:
+  title: Gustav Holst
+  ps:
+    p1: Gustav Theodore Holst was an English composer, arranger and teacher. Best known for The Planets, he composed a large number of other works across a range of genres. His distinctive compositional style was the product of many influences.
+    p2: Richard Wagner and Richard Strauss being most crucial early in his development. The subsequent inspiration of the English folksong revival of the early 20th century, and the example of such rising modern composers as Maurice Ravel, led Holst to develop and refine an individual style.
+

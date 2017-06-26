@@ -1,0 +1,35 @@
+head:
+  tab: Menu
+  favicon: others/fav.png
+  content: |
+   Minima
+  keywords: |
+    Minima
+  styles:
+    css: |
+      main.css
+  js: |
+    main.js
+
+content:
+  title: Minima Starter
+  tagline: Gulp Template Builder
+  link: Made with ♥ by vanderlanth
+  url: http://vanderlanth.io
+
+
+
+slider:
+  mars:
+    title: Mars
+    img: planet-holder
+  jupiter:
+    title: Jupiter
+    img: planet-holder
+  venus:
+    title: Venus
+    img: planet-holder
+  saturn:
+    title: Saturn
+    img: planet-holder
+
